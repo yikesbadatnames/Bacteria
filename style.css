@@ -3,3 +3,6 @@
     background-size: auto;
     height: 100%;
 }
+#wrapper {
+ background-color: lightgray;
+}
